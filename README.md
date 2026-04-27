@@ -20,7 +20,5 @@ Soy un experto de la informática enfocado en **Sistemas Microinformáticos y Re
 ### 🤝 Conectemos
 
 <p align="left">
-<a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="mailto:eldecox11@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="25" /></a>
+<a href="mailto:jortmor1107@g.educaand.es" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="25" /></a>
 </p>
